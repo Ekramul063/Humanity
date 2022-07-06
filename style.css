@@ -1,0 +1,158 @@
+body{
+   margin:0;
+   font-family: 'Lato', sans-serif;
+}
+.text_center{
+   text-align: center;
+}
+header {
+   background-image: url(images/donation0.jpg);
+   width: 100%;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+.overlay{
+   background-color: #3c3a3a9e;
+   padding: 170px 0px;
+}
+
+.header_content{
+   width: 50%;
+   margin:0 auto;
+}
+h1 {
+   font-weight: 700;
+   font-size: 45px;
+   color:#FFFFFF;
+   margin:0px;
+}
+header p {
+   color: #ffffff;
+   margin: 15px 0px 35px 0px;
+   line-height: 25px;
+}
+.button{
+   text-decoration: none;
+   padding:10px 20px;
+   background-color: #f85026;
+   color:#ffffff;
+   font-size: 15px;
+   border-radius: 5px;
+}
+#donation_sect{
+   padding-top: 50px;
+}
+section{
+   padding-bottom: 70px;
+}
+.section_heading_text{
+   width: 40%;
+   margin:0 auto;
+   text-align: center;
+   padding-bottom: 30px;
+}
+.section_heading_text h2{
+   font-weight: 600;
+} 
+.row{
+   display: flex;
+}
+.amount_box{
+   background-color: #c7c7b321;
+   margin:0 1%;
+   width: 20%;
+   padding: 12px 0px;
+   box-sizing: border-box;
+}
+.amount_box_container{
+   width: 50%;
+   margin: 0 auto;
+}
+.dontation_amount_input {
+   width: 100%;
+   border: none;
+   border-bottom: 1px solid #cbc7c7b0;
+   text-align: center;
+   margin-top: 35px;
+   padding-bottom: 10px;
+   font-size: 17px;
+   letter-spacing: 2px;
+}
+.differnt_box {
+   border: 2px solid rgb(237 81 74 / 56%);
+   background-color: rgb(229 52 35 / 9%);
+}
+.input_btn{
+   border:none;
+   margin-top: 15px;
+}
+.container{
+  padding: 0px 40px;
+}
+.service_item{
+   width: 31%;
+   margin:0 2%;
+   padding: 30px 15px;
+}
+
+.service_bg1{
+   background-color:peachpuff;
+}
+.service_bg2{
+   background-color:rgb(218, 161, 189);
+}
+.service_bg3{
+   background-color:rgb(87, 179, 179);
+}
+#gallery_sect .row{
+   flex-wrap: wrap;
+   padding-bottom: 30px;
+}
+
+.gallery_item{
+   width: 25%;
+   padding: 0.5%;
+   box-sizing: border-box;
+}
+.gallery_item img{
+   width: 100%;
+   height: 100%;
+   
+}
+.subscribe_box{
+   width: 50%;
+   margin:0 auto;
+   background-color: #f9d46d85;
+   padding: 60px 10px;
+   text-align: center;
+}
+.email {
+   border: none;
+   padding: 11px 15px;
+   width: 185px;
+   background-color: #b7aeae6b;
+   font-size: 12px;
+   border-radius: 5px;
+}
+.subscribe_btn {
+   background-color: #f85026;
+   border: none;
+   padding: 10px 20px;
+   margin-left: -7px;
+   color:#ffffff;
+   border-radius: 5px;
+}
+footer{
+   background-color: #362c2c;
+   padding: 50px 0px;
+   text-align: center;
+}
+footer h3{
+   color:#f85026;
+   font-weight: 900;
+   margin-bottom: 0px;
+}
+footer p{
+   color:#ffffffc7;
+   font-size: 14px;
+}
